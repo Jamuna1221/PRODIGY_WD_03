@@ -28,7 +28,7 @@ An interactive and responsive Tic-Tac-Toe game built using **HTML, CSS, and Java
 ## 🚀 Demo
 
 
-📂 [View on linkedin](https://github.com/yourusername/tic-tac-toe)
+📂 [View on linkedin]([https://github.com/yourusername/tic-tac-toe](https://www.linkedin.com/posts/jamuna-rani-c-a4033931b_task3-prodigyinfotech-webdevelopment-activity-7340269266190962689-SUnK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFEHiZABddormHZGY9EhB3oeE8ISTbZCSSs)
 
 ---
 
